@@ -14,7 +14,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 Patched
 Pornhub
@@ -25,11 +24,9 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -43,4 +40,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
