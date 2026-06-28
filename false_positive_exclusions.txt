@@ -4,8 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,14 +17,12 @@ Hubski
 LessWrong
 Minecraft
 Odysee
-OurDJTalk
 Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
