@@ -40,7 +40,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
