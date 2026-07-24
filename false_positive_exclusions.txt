@@ -2,9 +2,11 @@
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -13,8 +15,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -25,9 +29,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
