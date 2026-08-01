@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,15 +14,16 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
+Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,10 +34,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
