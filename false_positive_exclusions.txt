@@ -1,10 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
+Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,7 +14,6 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -48,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
