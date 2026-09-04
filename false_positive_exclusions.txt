@@ -3,9 +3,10 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
-Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,17 +14,13 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
-Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -36,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -51,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
