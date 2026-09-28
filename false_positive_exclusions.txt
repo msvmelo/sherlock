@@ -5,7 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-BoardGameGeek
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -34,7 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
