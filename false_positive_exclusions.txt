@@ -5,8 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -23,7 +21,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
 ObservableHQ
 Odysee
 PCGamer
