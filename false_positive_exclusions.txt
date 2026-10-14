@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -22,7 +23,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
 Minecraft
 ObservableHQ
 Odysee
@@ -38,7 +38,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
