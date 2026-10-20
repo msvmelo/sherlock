@@ -4,7 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,11 +16,11 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -36,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
