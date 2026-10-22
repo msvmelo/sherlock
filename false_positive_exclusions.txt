@@ -1,10 +1,8 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
@@ -17,11 +15,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -40,7 +37,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
@@ -48,4 +44,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
