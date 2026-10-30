@@ -3,7 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -15,6 +15,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -30,14 +31,13 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
