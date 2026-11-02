@@ -1,8 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -14,7 +15,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -29,6 +29,7 @@ SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -41,4 +42,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
