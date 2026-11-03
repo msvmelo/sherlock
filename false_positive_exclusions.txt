@@ -1,9 +1,7 @@
+APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
-Blogger
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -28,6 +26,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -42,3 +41,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
