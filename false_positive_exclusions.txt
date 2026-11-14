@@ -1,10 +1,13 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
+Crevado
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -13,7 +16,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LiveJournal
 Minecraft
 ObservableHQ
 Odysee
@@ -31,6 +33,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Vero
 YandexMusic
 authorSTREAM
