@@ -1,22 +1,21 @@
+APClips
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 Linktree
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -44,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
